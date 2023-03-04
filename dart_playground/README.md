@@ -1,1 +1,1 @@
-Todos os exercícios estar
+Todos os exercícios vão estar na pasta bin.
