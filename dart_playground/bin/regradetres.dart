@@ -18,7 +18,7 @@ double regraDeTres(
   if (valor4 == 0) {
     return valor3 * valor2 / valor1;
   }
-  throw ArgumentError('Exactly one input value must be empty.');
+  throw ArgumentError('Um valor de entrada deve estar vazio.');
 }
 
 void main() {
